@@ -1,3 +1,10 @@
+/*
+Desarrollado por: Catalina Villegas
+Gerald Carrillo
+Jorge Cárdenas 
+Fecha: 26-AGO-2025
+*/
+
 DROP DATABASE if exists otec;
 
 CREATE DATABASE otec;
